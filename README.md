@@ -18,7 +18,7 @@
 
 I am a Computer Science student. Have a bachelor's degree and currently pursuing a Master's degree. But learning is never enough so will have a go with this Course as well.\
 👷‍♂️ -> Working Currently \
-✅ -> Done \
+✅ -> Done 
 
 # Contents
 
