@@ -30,6 +30,8 @@ I am a Computer Science student. Have a bachelor's degree and currently pursuing
 
 # Summary
 
+<details>
+
 The OSSU curriculum is a **complete education in computer science** using online materials.
 It's not merely for career training or professional development.
 It's for those who want a proper, *well-rounded* grounding in concepts fundamental to all computing disciplines,
@@ -79,6 +81,9 @@ just remember that you can't purchase success!
 **[How to contribute](CONTRIBUTING.md)**
 
 **[Getting help](HELP.md)** (Details about our FAQ and chatroom)
+  
+</details>
+
 
 # Community
 
