@@ -32,7 +32,7 @@ I am a Computer Science student. Have a bachelor's degree and currently pursuing
 
 <details>
 
-<summary>Summary</summary>
+<summary> # Summary</summary>
 
 The OSSU curriculum is a **complete education in computer science** using online materials.
 It's not merely for career training or professional development.
