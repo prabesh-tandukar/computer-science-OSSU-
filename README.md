@@ -32,7 +32,7 @@ I am a Computer Science student. Have a bachelor's degree and currently pursuing
 
 <details>
 
-<summary> # Summary</summary>
+<summary> Summary</summary>
 
 The OSSU curriculum is a **complete education in computer science** using online materials.
 It's not merely for career training or professional development.
@@ -100,7 +100,8 @@ just remember that you can't purchase success!
 
 # Curriculum
 
-**Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
+<details>
+  **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
 
 - [Prerequisites](#prerequisites)
 - [Intro CS](#intro-cs)
@@ -123,15 +124,25 @@ just remember that you can't purchase success!
   - [Advanced math](#advanced-math)
 - [Final project](#final-project)
 
+</details>
+
+
 ---
 
 ## Prerequisites
 
-- [Core CS](#core-cs) assumes the student has already taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites), including algebra, geometry, and pre-calculus.
+<details>
+  <summary>
+    
+  </summary>
+   [Core CS](#core-cs) assumes the student has already taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites), including algebra, geometry, and pre-calculus.
 - [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
 and is knowledgeable enough now to decide which electives to take.
 - Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
 
+</details>
+
+-
 ## Intro CS
 
 ### Introduction to Programming
